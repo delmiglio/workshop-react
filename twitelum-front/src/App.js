@@ -22,7 +22,7 @@ class App extends Component {
                     </form>
                 </Widget>
                 <Widget>
-                    <TrendsArea />
+                    <TrendsArea trend="teste" />
                 </Widget>
             </Dashboard>
             <Dashboard posicao="centro">
